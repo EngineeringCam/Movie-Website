@@ -1,0 +1,26 @@
+nav
+{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    padding: 25px;
+}
+a
+{
+    color: black;
+    background-color: blue;
+}
+h1.Name
+{
+    border-top: 5px;
+    border-bottom: 5px;
+    border-color: blue;
+    Display: flex;
+    align-items: center;
+}
+div
+{
+    border: 10px;
+}
